@@ -24,11 +24,25 @@ button {
     width: 12.4%;
 }
 
+.StraightLine {
+    width: 12.5%;
+    text-align: left;
+    margin-left: 0%;
+   
+
+}
+
 .a {
     color:aliceblue;
 }
 
-
+.b {
+    color: aliceblue;
+}
+/* vrtial button group*/
+.button-group {
+ 
+}
 /* weather cards*/
 .brains {
     flex: 4;
